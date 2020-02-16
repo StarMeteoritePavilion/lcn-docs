@@ -1,2 +1,13 @@
-# lcn-docs
-the lcn project's lcn-docs 
+
+the repository is used for showing documents about the repsitory in this organization;
+
+
+## project-dependencies
+
+
+## project-kit
+
+
+## project-starter
+
+
